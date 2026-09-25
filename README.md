@@ -18,6 +18,7 @@ A especificação está em [`docs/problema.md`](docs/problema.md).
 
 - **[P4-ETAPA-01] Proposta do problema** — [`docs/problema.md`](docs/problema.md)
 - **[P4-ETAPA-02] Contrato semântico e testes** — [`testes/casos.md`](testes/casos.md)
+- **[P4-ETAPA-03] Implementação imperativa** — [`imperativo/`](imperativo/), decisões em [`docs/decisoes.md`](docs/decisoes.md)
 
 ## Estrutura
 
@@ -25,10 +26,13 @@ A especificação está em [`docs/problema.md`](docs/problema.md).
 projeto-p4-eduardo-alves-carvalho/
 ├── README.md
 ├── docs/
-│   └── problema.md          especificação do problema
+│   ├── problema.md          especificação do problema
+│   └── decisoes.md          decisões de implementação
 ├── testes/
 │   └── casos.md             casos de teste
 ├── imperativo/
+│   ├── caixa.py             solução
+│   └── testes_casos.py      validação contra os casos da Etapa 02
 ├── poo/
 ├── funcional/
 ├── logico/
