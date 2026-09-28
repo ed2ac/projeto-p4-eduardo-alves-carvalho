@@ -20,6 +20,7 @@ A especificação está em [`docs/problema.md`](docs/problema.md).
 - **[P4-ETAPA-02] Contrato semântico e testes** — [`testes/casos.md`](testes/casos.md)
 - **[P4-ETAPA-03] Implementação imperativa** — [`imperativo/`](imperativo/), decisões em [`docs/decisoes.md`](docs/decisoes.md)
 - **[P4-ETAPA-04] Implementação orientada a objetos** — [`poo/`](poo/), reflexão em [`poo/reflexão.md`](poo/reflexão.md)
+- **[P4-ETAPA-05] Comparação entre imperativo e POO** — [`docs/comparacao-imperativo-poo.md`](docs/comparacao-imperativo-poo.md)
 
 ## Estrutura
 
@@ -28,7 +29,8 @@ projeto-p4-eduardo-alves-carvalho/
 ├── README.md
 ├── docs/
 │   ├── problema.md          especificação do problema
-│   └── decisoes.md          decisões de implementação
+│   ├── decisoes.md          decisões de implementação
+│   └── comparacao-imperativo-poo.md   comparação da Etapa 05
 ├── testes/
 │   └── casos.md             casos de teste
 ├── imperativo/
