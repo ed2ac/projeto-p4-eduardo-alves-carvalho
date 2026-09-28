@@ -19,6 +19,7 @@ A especificação está em [`docs/problema.md`](docs/problema.md).
 - **[P4-ETAPA-01] Proposta do problema** — [`docs/problema.md`](docs/problema.md)
 - **[P4-ETAPA-02] Contrato semântico e testes** — [`testes/casos.md`](testes/casos.md)
 - **[P4-ETAPA-03] Implementação imperativa** — [`imperativo/`](imperativo/), decisões em [`docs/decisoes.md`](docs/decisoes.md)
+- **[P4-ETAPA-04] Implementação orientada a objetos** — [`poo/`](poo/), reflexão em [`poo/reflexão.md`](poo/reflexão.md)
 
 ## Estrutura
 
@@ -34,6 +35,9 @@ projeto-p4-eduardo-alves-carvalho/
 │   ├── caixa.py             solução
 │   └── testes_casos.py      validação contra os casos da Etapa 02
 ├── poo/
+│   ├── caixa.py             solução
+│   ├── reflexão.md          reflexão exigida pela etapa
+│   └── testes_casos.py      validação contra os casos da Etapa 02
 ├── funcional/
 ├── logico/
 └── integrado/
