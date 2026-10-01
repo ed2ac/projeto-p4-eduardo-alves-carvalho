@@ -76,7 +76,7 @@ catálogo:
 Quando o carrinho é válido, o sistema produz:
 
 1. uma linha por produto, com código, descrição, quantidade, valor bruto,
-   desconto, promoção aplicada e valor líquido;
+   desconto e valor líquido;
 2. o subtotal, somando os valores brutos;
 3. o total de descontos;
 4. o total a pagar.
